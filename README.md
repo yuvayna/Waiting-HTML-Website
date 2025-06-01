@@ -135,7 +135,7 @@ Accessibility: High contrast between text and background improves readability, a
 
 ## 📄 License
 
-This project is licensed under the MIT License. You are free to use, modify, and redistribute. See the LICENSE file for details. @yuvaya
+This project is licensed under the MIT License. You are free to use, modify, and redistribute. See the LICENSE file for details. @yuvayna
 
 Credit me if you use this template.
 
