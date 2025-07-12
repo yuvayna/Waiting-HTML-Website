@@ -26,7 +26,7 @@ The main file is `index.html`, which includes:
 
 ---
 
-## Config 
+## Config.
 
 
 Open the page in a browser
